@@ -10,3 +10,6 @@ This assignment asked us to refactor existing code to use semantic HTML elements
 
 ## Website Preview
 ![website preview image](./assets/images/preview.png)
+
+## Website Link
+<https://griveroll86.github.io/Homework1/>
